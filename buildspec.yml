@@ -6,7 +6,6 @@ phases:
       nodejs: 18
   pre_build:
     commands:
-      - cd aaraa_ai_portfolio
       - echo Installing source NPM dependencies...
       - npm install
   build:
@@ -18,5 +17,5 @@ artifacts:
   files:
     - '**/*'
     #- "aaraa_ai_portfolio/build/**/*"
-  base-directory: 'aaraa_ai_portfolio/build'
+  base-directory: 'build'
   #discard-paths: yes
