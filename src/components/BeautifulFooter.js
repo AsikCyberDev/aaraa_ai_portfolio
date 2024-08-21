@@ -40,8 +40,8 @@ const BeautifulFooter = () => {
                     <Title level={4} style={{ color: 'white', marginBottom: '20px' }}>Contact Us</Title>
                     <Space direction="vertical">
                         <Text style={{ color: 'rgba(255,255,255,0.8)' }}>Email: info@aaraa.ai</Text>
-                        <Text style={{ color: 'rgba(255,255,255,0.8)' }}>Phone: +1 (555) 123-4567</Text>
-                        <Text style={{ color: 'rgba(255,255,255,0.8)' }}>Address: 123 AI Street, Tech City, TC 12345</Text>
+                        <Text style={{ color: 'rgba(255,255,255,0.8)' }}>Phone: +1 (206) 769-6344</Text>
+                        <Text style={{ color: 'rgba(255,255,255,0.8)' }}>Address: 4117 Wallingford Ave N, Seattle, WA 98103</Text>
                     </Space>
                 </Col>
                 <Col xs={24} sm={12} md={6}>
